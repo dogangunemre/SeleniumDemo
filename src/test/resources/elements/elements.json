@@ -1,0 +1,57 @@
+[
+  {
+    "key": "searchBox",
+    "value": "q",
+    "type": "name"
+  },
+  {
+    "key": "Electronic",
+    "value": "//span[text()='Elektronik']",
+    "type": "xpath"
+  },
+  {
+    "key": "Computer/Tablet",
+    "value": "//a[text()='Bilgisayar/Tablet']",
+    "type": "xpath"
+  },
+  {
+    "key": "Tablet",
+    "value": "//ul[@class='sf-ChildMenuItems-xEXsQvaJD0cslMw9rBZM']//a[text()='Tablet']",
+    "type": "xpath"
+  },
+  {
+    "key": "apple",
+    "value": "//*[@value=\"apple\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "screenSize",
+    "value": "//*[@href=\"/tablet-c-3008012?filtreler=ekranboyutu:13€2C2€20in€C3€A7\"]/div",
+    "type": "xpath"
+  },
+  {
+    "key": "price-current-price",
+    "value": "//*[@data-test-id=\"price-current-price\"]",
+    "type": "xpath"
+  },
+  {
+    "key": "accept",
+    "value": "//button[@id='onetrust-accept-btn-handler']",
+    "type": "xpath"
+  },
+  {
+    "key": "addToCart",
+    "value": "//*[@data-test-id='addToCart']",
+    "type": "xpath"
+  },
+  {
+    "key": "GoToCart",
+    "value": "//*[text()='Sepete git']",
+    "type": "xpath"
+  },
+  {
+    "key": "product_price",
+    "value": "//*[@class=\"product_price_uXU6Q\"]",
+    "type": "xpath"
+  }
+]

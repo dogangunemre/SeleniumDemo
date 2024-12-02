@@ -1,0 +1,16 @@
+Code	Result
+0	    Fail
+1	    Success
+
+Code	Case
+01	    Login
+02	    Register
+03	    Credit
+04  	Application
+
+Test initial value => 000
+
+Scenario Code : Result Code + Case Code + Initial Value
+
+ex: 101001 => first success login scenario
+ex: 002001 => first fail register scenario
